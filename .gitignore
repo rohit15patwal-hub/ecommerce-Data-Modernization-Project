@@ -1,1 +1,28 @@
+# Python
+__pycache__/
+*.pyc
 
+# Databricks
+.checkpoints/
+
+# Environment
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large data
+*.csv
+*.parquet
+
+# Delta checkpoints
+checkpoint/
+checkpoints/
