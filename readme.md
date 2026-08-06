@@ -188,7 +188,7 @@ These datasets are transformed into analytics-ready Fact and Dimension tables fo
 ### Azure Databricks Workspace
 
 <details>
-<summary>📷 Bronze Layer Screenshot</summary>
+<summary>📷  Databricks Workspace  Screenshot</summary>
 
 ![Bronze Layer](screenshots/databricks-workspace.png)
 
@@ -210,7 +210,7 @@ These datasets are transformed into analytics-ready Fact and Dimension tables fo
 ### Silver Layer
 
 <details>
-<summary>📷 Bronze Layer Screenshot</summary>
+<summary>📷 Silver Layer Screenshot</summary>
 
 ![Silver Layer](screenshots/silver_layer.png)
 
@@ -221,7 +221,7 @@ These datasets are transformed into analytics-ready Fact and Dimension tables fo
 ### Gold Layer
 
 <details>
-<summary>📷 Bronze Layer Screenshot</summary>
+<summary>📷 Gold Layer Screenshot</summary>
 
 ![Gold Layer](screenshots/gold_layer.png)
 
@@ -232,7 +232,7 @@ These datasets are transformed into analytics-ready Fact and Dimension tables fo
 ### Databricks Workflow
 
 <details>
-<summary>📷 Bronze Layer Screenshot</summary>
+<summary>📷 Workflow Screenshot</summary>
 
 ![Bronze Layer](screenshots/workflow.png)
 
