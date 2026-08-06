@@ -242,7 +242,9 @@ These datasets are transformed into analytics-ready Fact and Dimension tables fo
 
 ### Power BI Dashboard
 
-*(Screenshot will be added)*
+## 📊 Dashboard Preview
+
+![E-commerce Dashboard](dashboard/dashboard.png)
 
 
 ## 🚀 Future Enhancements
